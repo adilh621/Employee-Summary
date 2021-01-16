@@ -11,6 +11,13 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 ```
 
+## App Functionality:
+
+This is a Node CLI Application. To run , clone this repo > cd into Develop > npm i > and node app
+
+![image (4)](https://user-images.githubusercontent.com/36384770/104797156-02dbe180-578a-11eb-9603-c9c1fc375259.png)
+
+
 
 ## Technology Used:
 - Node.js
